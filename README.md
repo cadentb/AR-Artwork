@@ -9,9 +9,7 @@ Within each of these directories, you'll find their own READMEs.
 
 Google Colab (for running and testing the algorithm) - https://colab.research.google.com/drive/1ATiIfH8aMpWvgFvr-XGT6tt9NUbK5mrk
 
-
-# AR Artwork
-
+## Description
 
 The augmented reality system that our team is working on will take existing AI Art technology such as DALL-E and apply it to a real-time AR technology. While plenty of AI art models take in text prompts or images to convert into a final piece, the project we are working on will take in live footage and stylize the footage in real time, meaning that much of the stylization process will have to be revised to be more efficient compared to existing models. This will lead to new possibilities in AR/AI technology, allowing for new forms of education and entertainment.
 
