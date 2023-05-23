@@ -1,0 +1,7 @@
+python evaluate.py --checkpoint models/la_muse.ckpt --in-path path /to /image / img.JPG --out-path ./path/ to / examples / results.JPG
+
+
+
+conda activate tf-gpu
+
+python evaluate.py --checkpoint models/la_muse.ckpt --in-path ./images/cat.jpeg --out-path ./results/la_muse-cat.jpeg
