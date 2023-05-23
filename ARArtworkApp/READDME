@@ -1,0 +1,12 @@
+## Android App:
+
+This app is designed to take pictures and send those pictures to the cloud to be style transferred with an input style image (saved in the apps style image tab). The app also will save the pictures to the phone's camera roll (currently not implemented).
+
+### How to run:
+
+Download android studio
+Clone repository containing android app code
+Bring cloned repository into android studio
+Create a virtual device (pixel 6 API 30)
+Startup virtual device
+Run app
